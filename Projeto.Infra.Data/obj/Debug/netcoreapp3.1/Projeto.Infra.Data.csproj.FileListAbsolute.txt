@@ -1,0 +1,13 @@
+C:\Users\Rômulo\source\repos\Aula11\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.deps.json
+C:\Users\Rômulo\source\repos\Aula11\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\Rômulo\source\repos\Aula11\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Rômulo\source\repos\Aula11\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfo.cs
+C:\Users\Rômulo\source\repos\Aula11\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.json
+C:\Users\Rômulo\source\repos\Aula11\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.dev.json
+C:\Users\Rômulo\source\repos\Aula11\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.genruntimeconfig.cache
+C:\Users\Rômulo\source\repos\Aula11\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\Rômulo\source\repos\Aula11\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\Users\Rômulo\source\repos\Aula11\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\Users\Rômulo\source\repos\Aula11\Projeto.Infra.Data\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Rômulo\source\repos\Aula11\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rômulo\source\repos\Aula11\Projeto.Infra.Data\obj\Debug\netcoreapp3.1\Projeto.Infra.Data.csprojAssemblyReference.cache
